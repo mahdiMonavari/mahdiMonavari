@@ -1,7 +1,7 @@
 ## Hi there 👋
-<p align="center">
+<!-- <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtOY5-siJJS6DccMEoMHQ6KABkwVyRCpE5mg&s" alt="my heart"/>
-  </p>
+  </p> -->
 <!--
 **mahdiMonavari/mahdiMonavari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
