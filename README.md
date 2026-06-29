@@ -18,7 +18,7 @@ I'm a passionate **Next.js Developer** focused on building clean, scalable, and 
 - 🌱 Always improving my skills in **software architecture** and **clean code principles**
 - 💡 Passionate about **UI/UX**, **performance**, and **developer experience**
 - 💼 Available for **freelance work** — let's build something great together!
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **mahdi.monavari1381@gmail.com**
 
 ---
 
